@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Unreal Projects\\GASP-ALS-main\\Source\\GASPALS\\GASPALS.Build.cs",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\GASP-ALS-main\\.vscode\\compileCommands_Default\\GASPALS.1.rsp"
+		],
+		"directory": "E:\\SteamLibrary\\steamapps\\common\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\GASP-ALS-main\\Source\\GASPALS\\GASPALS.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\GASP-ALS-main\\.vscode\\compileCommands_Default\\GASPALS.1.rsp"
+		],
+		"directory": "E:\\SteamLibrary\\steamapps\\common\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\GASP-ALS-main\\Source\\GASPALS\\GASPALS.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\GASP-ALS-main\\.vscode\\compileCommands_Default\\GASPALS.1.rsp"
+		],
+		"directory": "E:\\SteamLibrary\\steamapps\\common\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\GASP-ALS-main\\Source\\GASPALS\\Private\\DeserEagle.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\GASP-ALS-main\\.vscode\\compileCommands_Default\\GASPALS.1.rsp"
+		],
+		"directory": "E:\\SteamLibrary\\steamapps\\common\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\GASP-ALS-main\\Source\\GASPALS\\Public\\DeserEagle.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\GASP-ALS-main\\.vscode\\compileCommands_Default\\GASPALS.1.rsp"
+		],
+		"directory": "E:\\SteamLibrary\\steamapps\\common\\UE_5.4\\Engine\\Source"
+	}
+]
